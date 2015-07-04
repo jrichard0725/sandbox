@@ -1,0 +1,22 @@
+{
+  "name": "Lumx Test Site",
+  "version": "0.0.0",
+  "description": "This is a test project for building a site in Lumx. It will be transitioned to a lawn care site",
+  "main": "index.html",
+  "keywords": [
+    "lumx",
+    "angular"
+  ],
+  "authors": [
+    "Josh Richard"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jrichard0725",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
